@@ -1,6 +1,7 @@
 ## Development Environment : UBUNTU ##
 
-#check if python and pip is installed and install it
+#check if python and pip is installed and install it using:
+
 sudo apt-get install python3 python3-pip
 
 # flask : web framework for python

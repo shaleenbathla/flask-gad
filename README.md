@@ -5,11 +5,17 @@
 sudo apt-get install python3 python3-pip
 
 # flask : web framework for python
+
 pip3 install flask
+
 pip3 install numpy
+
 pip3 install opencv-python
+
 pip3 install dlib
+
 pip3 install tensorflow
+
 pip3 install mtcnn
 
 OpenCV Haar Cascade : https://www.mlcrunch.com/face/face-haar-cascade

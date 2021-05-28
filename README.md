@@ -19,8 +19,11 @@ pip3 install tensorflow
 pip3 install mtcnn
 
 OpenCV Haar Cascade : https://www.mlcrunch.com/face/face-haar-cascade
+
 OpenCV DNN: https://www.mlcrunch.com/face/opencv-dnn-caffe
+
 dlib CNN : https://towardsdatascience.com/cnn-based-face-detector-from-dlib-c3696195e01c
+
 dlib HOG+SVM : https://towardsdatascience.com/cnn-based-face-detector-from-dlib-c3696195e01c
 
 
